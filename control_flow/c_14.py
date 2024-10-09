@@ -5,6 +5,7 @@ K = -8266.64
 
 def main():
     calculate_age_single_sample()
+    print('')
 
 
 

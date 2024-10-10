@@ -8,7 +8,7 @@ def main():
     print('')
 
 
-
+# calculate the age of a sample based on the is c14
 def calculate_age_single_sample():
     pct_left = float(input(" % of natural c14: "))
     age = K * math.log(pct_left / 100)
